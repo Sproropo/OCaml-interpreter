@@ -6,3 +6,6 @@ This project implements an interpreter written in OCaml. The language features t
 
 # Testing
 The project comprises 14 test cases to verify the various language functionalities.
+
+# Extras
+- This project was developed from scratch. (Note: This is an older project originally created and distributed by me in 2021 before being uploaded in 2024 to GitHub.)
